@@ -1,0 +1,43 @@
+@import url(fonts.css);
+
+body {
+      font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+        width: 100%;
+        height: 100%;
+        -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+        background: url("/images/logo.png") no-repeat  center center fixed ;
+    font-family: "JacquesGilles","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container
+{
+    text-align: center;
+    margin: 360px auto;
+}
+
+p
+{
+    margin: 10px;
+}
+
+.title
+{
+    font-size: 94px;
+}
+
+.place
+{
+    margin-top: 0px;
+    font-size: 56px;
+}
+
+.date
+{
+    font-size: 36px;
+}
+a {
+  color: #00B7FF;
+}
